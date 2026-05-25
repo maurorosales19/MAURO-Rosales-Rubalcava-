@@ -31,11 +31,11 @@ PostHog is available with hosting in the EU or US and is fully SOC 2 compliant. 
 - 1 million feature flag requests
 - 250 survey responses
 
-We're constantly adding new features, with web analytics and data warehouse now in beta!
+W
 
 ## Table of Contents
 
-- [Get started for free](#get-started-for-free)
+- [Get started for free])
 - [Docs](#docs)
 - [Contributing](#contributing)
 - [Philosophy](#philosophy)
@@ -52,7 +52,7 @@ The fastest and most reliable way to get started with PostHog is signing up for 
 You can deploy a hobby instance in one line on Linux with Docker (recommended 4GB memory):
 
  ```bash 
-  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/posthog/posthog/HEAD/bin/deploy-hobby)" 
+  /bin/bash -c (curl -fsSL https://raw.githubusercontent.com/posthog/posthog/HEAD/bin/deploy-hobby)" 
  ``` 
 
 Open source deployments should scale to approximately 100k events per month, after which we recommend migrating to a PostHog Cloud instance. See our [docs for more info and limitations](https://posthog.com/docs/self-host/open-source/deployment). Please note that we do not provide customer support for open source deployments. 
